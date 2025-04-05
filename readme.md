@@ -13,8 +13,8 @@ This is a simple calculator web application built using **HTML**, **CSS**, and *
 
 ## 📁 Project Structure
 
-Calculator_Final/
-├── index.html
+Calculator_Final/  
+├── index.html  
 └── README.md
 
 ## 🧠 How It Works
